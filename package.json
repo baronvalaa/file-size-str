@@ -1,0 +1,22 @@
+{
+  "name": "file-size-str",
+  "version": "1.0.2",
+  "description": "Number format to file size string .",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baronvalaa/file-size-str.git"
+  },
+  "keywords": [
+    "filesize",
+    "file-size",
+    "file size",
+    "file size to string",
+    "filesize string"
+  ],
+  "author": "baronvalaa",
+  "license": "Apache License 2.0"
+}
